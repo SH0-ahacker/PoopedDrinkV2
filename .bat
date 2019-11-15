@@ -11,4 +11,58 @@ TITLE ...g
 Echo: ....
 TITLE ...
 Echo: ...
+Start lol
+Cmf
+Calc
+Start lol gansta
+Cmd
+Calc
+Start Google.gg
+...............
+
+...............
+
+...............
+
+............... :: pause
+...............
+...............
+
+...............
+
+...............
+
+...............
+
+...............
+
+...............
+Cmd
+Echo:duck
+Start ???????????? Meme
+Start tytopopy
+Echo: Lol Gangsta
+Start 1234567890@#$_&-+()/*"'
+Google
+Cmd
+Calc
+Cmd
+Calc
+Cmd
+Calc
+Cmd
+Calc
+Cmd
+Start MEMZ trojan download
+Start cursorpart.com
+Start crymyip.com/
+Notepad
+Notepad
+Cmd
+Msg * lol gangsta, lolololololololol
+Calc
+Calc
+Calc
+Calc
+Calc
 goto loop
