@@ -74,7 +74,6 @@ Notepad
 Cmd
 echo %random% %random% %random% %random% %random% random% %random%%random% %random% %random% random% %random%%random% %random% %random% random% %random%%random% %random% %random% random% %random%%random% %random% %random%
 
-Msg * lol gangsta, lolololololololol
 Calc
 Calc
 Calc
